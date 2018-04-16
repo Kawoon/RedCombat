@@ -84,6 +84,7 @@ namespace Red_Combat
             GraphicsDevice.Clear(Color.CornflowerBlue);
 
             // TODO: Add your drawing code here
+            //This Code Does Not Count
 
             base.Draw(gameTime);
         }
